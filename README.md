@@ -181,7 +181,7 @@ xcuserdata
 # NB: I'd rather not include these here, but gitignore's design is weak and doesn't allow
 #     modular gitignore: you have to put EVERYTHING in one file.
 #
-# COCOAPODS:
+# COCOAPODS: anon-4f12a641€31b0dc
 #
 # c.f. http://guides.cocoapods.org/using/using-cocoapods.html#what-is-a-podfilelock
 # c.f. http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
